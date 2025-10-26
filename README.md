@@ -1,5 +1,5 @@
 
-Aim:
+## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
@@ -120,22 +120,25 @@ capture.release()
 
 ### i) Write the frame as JPG image
 
+<img width="735" height="521" alt="image" src="https://github.com/user-attachments/assets/efd7216b-8197-48d3-9a8d-fd3fe0d3d4e5" />
+
 
 ### ii) Display the video
-</br>
-</br>
+
+<img width="651" height="499" alt="image" src="https://github.com/user-attachments/assets/a0a2b7a2-0c2e-4000-b848-94e24a09f4a7" />
+
 
 
 ### iii) Display the video by resizing the window
-</br>
-</br>
+
+<img width="341" height="490" alt="image" src="https://github.com/user-attachments/assets/e2154cf7-2f6b-46b7-b508-c9c954c067b4" />
 
 
 
 ### iv) Rotate and display the video
-</br>
-</br>
 
+
+<img width="377" height="490" alt="image" src="https://github.com/user-attachments/assets/fd0b6eb6-8f32-4b48-8aa7-1adb9c612fe0" />
 
 
 
